@@ -1,6 +1,6 @@
 # analysePwList
 
-This script will go through a wordlist and analyse the pattern for each listet password.
+This script will go through a wordlist and analyse the pattern for each listed password.
 
 You can choose between hashcat output pattern or crunch output pattern.
 
